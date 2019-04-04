@@ -14,4 +14,4 @@ npm install
 expo start
 ```
 
-Get you hands dirty , Happy coding!
+Get your hands dirty , Happy coding!
