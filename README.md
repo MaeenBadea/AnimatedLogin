@@ -3,7 +3,7 @@
 A small and simple app with animation ,  navigation!
 
 
-<img src="demo.gif" alt="demo" width="60%"/>
+<img src="demo.gif" alt="demo" width="40%"/>
 
 ## Install and run 
 ```
