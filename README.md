@@ -3,8 +3,7 @@
 A small and simple app with animation ,  navigation!
 
 
-![AnimatedLogin](https://github.com/MaeenBadea/AnimatedLogin/blob/master/gifs/record.gif)
-
+<img src="demo.gif" alt="demo" width="60%"/>
 
 ## Install and run 
 ```
